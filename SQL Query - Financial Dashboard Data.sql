@@ -29,6 +29,8 @@ CREATE TABLE cc_detail (
 
 -- 2. Create cc_detail table
 
+--Adding new commit
+
 CREATE TABLE cust_detail (
     Client_Num INT,
     Customer_Age INT,
